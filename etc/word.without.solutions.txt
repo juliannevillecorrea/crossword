@@ -1,0 +1,55 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+<div id="exolve">
+</div>
+<script>
+  createExolve(`
+exolve-begin
+  exolve-id: xet-cakucx
+  exolve-width: 11
+  exolve-height: 11
+  exolve-title: word
+  exolve-setter: juliannevillecorrea@gmail.com
+  exolve-copyright: word by julian neville correa is marked with CC0 1.0 Universal. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
+  exolve-maker: 
+    Software: <a target="_blank" href="http://exet.app">Exet</a><br>
+    Version: v0.74 July 28, 2022<br>
+    Lexicon: ukacd18-lufz-v0.05<br>
+    Timestamp: Thu Aug 11 2022 19:24:36 GMT+0530 (India Standard Time)<br>
+  exolve-grid: 
+    0   0   0   0   0   0   .   0   0   0   0   
+    0   .   0   .   0   .   0   .   0   .   0   
+    0   0   0   0   0   .   0   0   0   0   0   
+    0   .   0   .   0   .   0   .   0   .   0   
+    .   0   0   0   0   0   0   0   0   0   0   
+    0   .   0   .   0   .   0   .   0   .   0   
+    0   0   0   0   0   0   0   0   0   0   .   
+    0   .   0   .   0   .   0   .   0   .   0   
+    0   0   0   0   0   .   0   0   0   0   0   
+    0   .   0   .   0   .   0   .   0   .   0   
+    0   0   0   0   .   0   0   0   0   0   0   
+  exolve-across: 
+  1 resembling or suggestive of earth or soil. (6)
+  4 a detailed proposal for doing or achieving something. (4)
+  8 (in feudal Japan) a wandering samurai who had no lord or master. (5)
+  9 a natural object or animal that is believed by a particular society to have spiritual significance and that is adopted by it as an emblem. (5)
+  10 written works, especially those considered of superior or lasting artistic merit. (10)
+  12 experts in or students of history, especially that of a particular period, geographical region, or social phenomenon. (10)
+  14 a principle or belief, especially one of the main principles of a religion or philosophy. (5)
+  15 the final and fully developed adult stage of an insect, typically winged. (5)
+  16 arrange or happen to come into the presence or company of (someone). (4)
+  17 wrathful; one who receives pain (6)
+  exolve-down: 
+  1 obtain (money) in return for labour or services. (4)
+  2 the revival of European art and literature under the influence of classical models in the 14th–16th centuries. (11)
+  3 from this or that time on. (10)
+  5 natives or citizens of Lithuania, or persons of Lithuanian descent. (11)
+  6 an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations. (6)
+  7 formed or arranged into strata or layers. (10)
+  11 a strong, regular repeated pattern of movement or sound. (6)
+  13 a star showing a sudden large increase in brightness and then slowly returning to its original state over a few months. (4)
+exolve-end
+  `);
+</script>
+
