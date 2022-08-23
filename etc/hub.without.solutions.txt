@@ -1,0 +1,41 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+<div id="exolve">
+</div>
+<script>
+  createExolve(`
+exolve-begin
+  exolve-id: xet-qt04pj
+  exolve-width: 7
+  exolve-height: 7
+  exolve-title: hub
+  exolve-setter: juliannevillecorrea@gmail.com
+  exolve-copyright: hub by julian neville correa is marked with CC0 1.0 Universal. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
+  exolve-maker: 
+    Software: <a target="_blank" href="http://exet.app">Exet</a><br>
+    Version: v0.74 July 28, 2022<br>
+    Lexicon: ukacd18-lufz-v0.05<br>
+    Timestamp: Thu Aug 11 2022 20:59:42 GMT+0530 (India Standard Time)<br>
+  exolve-grid: 
+    .   0   0   0   0   0   .   
+    0   .   0   .   0   .   0   
+    0   0   0   0   0   0   0   
+    0   .   0   .   0   .   0   
+    0   0   0   0   0   0   0   
+    0   .   0   .   0   .   0   
+    .   0   0   0   0   0   .   
+  exolve-across: 
+  1 the flat, wide section of an implement or device such as an oar or a propeller. (5)
+  6 a man employed to do manual labour. (7)
+  7 a person who occupies land or property rented from a landlord. (7)
+  8 hub with a number of radiating aerofoils that is rotated in an approximately horizontal plane to provide the lift for a helicopter or other rotary wing aircraft. (5)
+  exolve-down: 
+  2 of Latin origin and means "laurel crown." It is the Latinized version of Lawrence, or Laurentius (7)
+  3 a shortening of Late Latin diēs Dominicus (“Sunday”, literally “day of the Lord”). (7)
+  4 a broad strip or area of something. (5)
+  5 a feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. (5)
+exolve-end
+  `);
+</script>
+
