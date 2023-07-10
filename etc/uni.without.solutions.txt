@@ -1,0 +1,74 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+
+<div id="exolve-div-wkx9rc">
+</div>
+
+<script>
+createExolve(`
+exolve-begin
+  exolve-id: xet-vxvwl5
+  exolve-width: 15
+  exolve-height: 15
+  exolve-title: uni
+  exolve-setter: juliannevillecorrea@gmail.com
+  exolve-copyright: uni by julian correa is marked with CC0 1.0 Universal 
+  exolve-maker: 
+    Software: <a target="_blank" href="https://exet.app">Exet</a><br>
+    Version: v0.86 May 7, 2023<br>
+    Lexicon: Lufz-en-v0.06<br>
+    Timestamp: Mon Jul 10 2023 12:28:31 GMT+0530 (India Standard Time)<br>
+  exolve-language: en Latin 1
+  exolve-grid: 
+    0   0   0   0   0   0   0   0   .   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   .   0   0   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   .   0   0   0   0   0   0   0   0   
+    .   .   .   0   .   0   .   0   .   .   .   0   .   0   .   
+    0   0   0   0   .   0   0   0   0   0   0   0   0   0   0   
+    .   0   .   .   .   0   .   .   .   0   .   .   .   0   .   
+    0   0   0   0   0   0   0   0   0   0   .   0   0   0   0   
+    .   0   .   0   .   .   .   0   .   0   .   0   .   .   .   
+    0   0   0   0   0   0   0   0   .   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   0   0   .   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   .   0   0   0   0   0   0   0   0   
+  exolve-across: 
+  1 an informal word for a politician (8)
+  6 an educational institution designed to provide learning spaces and learning environments for the teaching of students (or "pupils") under the direction of teachers (6)
+  9 traditionally the land on which a college or university and related institutional buildings are situated (6)
+  10 To provide with knowledge; to train or inform (8)
+  11 (Government, Politics & Diplomacy) (in India) an association, esp one formed to organize political activity (6)
+  12 aware; alert or enlightened (8)
+  13 a short satirical piece of writing /a trick or hoax (4)
+  15 an institution of higher (or tertiary) education and research which awards academic degrees in various academic disciplines (10)
+  17 a title of various official positions in the governments of many nations (10)
+  20 an educational assessment intended to measure a test-taker's knowledge, skill, aptitude, physical fitness, or classification in many other topics (4)
+  21 a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN) commercially introduced in 1980 (8)
+  23 river in Western Australia (6)
+  25 the holder of a license (8)
+  26 the central component of most operating systems (6)
+  27 an individual's metaphorical "journey" through learning, work and other aspects of life (6)
+  28 overt conduct, such as speech and organization, that tends toward rebellion against the established order (8)
+  exolve-down: 
+  2 (written: 岡田 literally "hill rice-paddy") is a Japanese surname (5)
+  3 To produce (a mark or pattern) on a surface by pressure (7)
+  4 To establish, organize, or introduce / An organization founded to promote a cause (9)
+  5 the traditional Japanese art of paper folding, which started in the 17th century AD at the latest and was popularized outside of Japan in the mid-1900s. It has since then evolved into a modern art form (7)
+  6 Staffordshire Ambulance Staff Humanitarian Aid (5)
+  7 a looped restraint or support (7)
+  8 a large instrumental ensemble typical of classical music, which combines instruments from different families, including bowed string instruments such as the violin, viola, cello, and double bass, woodwinds such as the flute, oboe, clarinet and bassoon, brass instruments such as the horn, trumpet, trombone and tuba, and percussion instruments such as the timpani, bass drum, triangle, snare drum, cymbals, and mallet percussion instruments each grouped in sections (9)
+  14 one of the four varna (social orders) of the Hindu society ie the ruling and military elite. Their role was to protect society by fighting in wartime and governing in peacetime (9)
+  16 reserved or designated for a particular purpose (9)
+  18 A member of a Zulu people of southwest Zimbabwe (7)
+  19 scholarly attainment (7)
+  20 To select or use (a passage or segment from a longer work) (7)
+  22 (river), better known as Nežárka, a river in South Bohemia, Czech Republic/ (name), a masculine given name meaning supporter (5)
+  24 In Christian liturgy, the _____ (Latin: [ˈkɾeːdoː]; Latin for "I believe") is the Nicene-Constantinopolitan Creed (or less often, the Apostles' Creed or the Athanasian Creed) in the Mass, either as spoken text, or sung as Gregorian chant or other musical settings of the Mass (5)
+exolve-end
+  `, "exolve-div-wkx9rc");
+</script>
+
