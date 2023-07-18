@@ -1,0 +1,73 @@
+<link rel="stylesheet" type="text/css" href="https://viresh-ratnakar.github.io/exolve-m.css"/>
+<script src="https://viresh-ratnakar.github.io/exolve-m.js">
+</script>
+
+<div id="exolve-div-4dcvmx">
+</div>
+
+<script>
+createExolve(`
+exolve-begin
+  exolve-id: xet-wyib6n
+  exolve-width: 15
+  exolve-height: 15
+  exolve-title: quill
+  exolve-setter: juliannevillecorrea@gmail.com
+  exolve-copyright: quill by juliannevillecorrea@gmail.com is marked with CC0 1.0 
+  exolve-maker: 
+    Software: <a target="_blank" href="https://exet.app">Exet</a><br>
+    Version: v0.87 July 15, 2023<br>
+    Lexicon: Lufz-en-v0.06<br>
+    Timestamp: Tue Jul 18 2023 16:58:16 GMT+0530 (India Standard Time)<br>
+  exolve-language: en Latin 1
+  exolve-grid: 
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   0   0   0   0   .   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   0   0   0   0   .   0   0   0   0   0   0   
+    .   .   .   0   .   0   .   .   .   0   .   .   .   0   .   
+    0   0   0   0   .   0   0   0   0   0   0   0   0   0   0   
+    .   0   .   0   .   .   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   .   0   0   0   0   0   .   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   .   .   0   .   0   .   
+    0   0   0   0   0   0   0   0   0   0   .   0   0   0   0   
+    .   0   .   .   .   0   .   .   .   0   .   0   .   .   .   
+    0   0   0   0   0   0   .   0   0   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+    0   0   0   0   .   0   0   0   0   0   0   0   0   0   0   
+    .   0   .   0   .   0   .   0   .   0   .   0   .   0   .   
+  exolve-across: 
+  8 plural :A natural or artificial pond or lake used for the storage and regulation of water (10)
+  9 Iēsus Nazarēnus, Rēx Iūdaeōrum (4)
+  10 a group of people who participate in a show or encounter a work of art, literature (in which they are called "readers"), theatre, music (in which they are called "listeners"), video games (8)
+  11 extend, swell, enlarge; spread out (6)
+  12 Small Computer System Interface (4)
+  14 Conceivable in the imagination (10)
+  17 anonymous (4)
+  18 a writing tool made from a moulted flight feather (5)
+  19 a family of yeast-leavened round flatbreads baked from wheat flour, common in the Mediterranean, Middle East, and neighboring areas (4)
+  20 a worker, skilled in a given building trade or craft, who has successfully completed an official apprenticeship qualification (10)
+  22 To be carried or conveyed, as in a vehicle or on horseback (4)
+  23 a passionate expression of grief, often in music, poetry, or song form (6)
+  25 Having the ability or power to create (8)
+  27 To cut into the surface of (glass, for example)
+  28 A world or existence beyond earthly reality (10)
+  exolve-down: 
+  1 In a restaurant a list of food and beverages offered to customers and the prices (4)
+  2 a person who pleads with governmental institution for a legal remedy or a redress of grievances, through use of a petition (10)
+  3 in Italian, meaning ahead, forward, or before (6)
+  4 the indefinite continued progress of existence and events that occur in an apparently irreversible succession from the past, through the present, into the future (4)
+  5 Of special importance or significance; exceptional (8)
+  6 A speech defect or mannerism characterized by mispronunciation of the sounds (s) and (z) as (th) and (4)
+  7 rendered in another language (10)
+  13 In addition to vowels, the English alphabet is also made up of __________ (10)
+  15 a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments (5)
+  16 Expulsion of breath in speech (10)
+  18 an utterance which typically functions as a request for information, which is expected to be provided in the form of an answer (8)
+  21 a river in central France, a right tributary of the Loire. It flows through the département Nièvre (6)
+  24 a reflection of sound that arrives at the listener with a delay after the direct sound (4)
+  25 species of anadromous fish in the salmon family and one of the five Pacific salmon species (4)
+  26 South African the people or nation, esp the nation of Afrikaners (4)
+exolve-end
+  `, "exolve-div-4dcvmx");
+</script>
